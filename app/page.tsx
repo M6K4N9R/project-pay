@@ -5,7 +5,7 @@ import styles from "app/ui/home.module.css";
 import { lusitana } from "./ui/fonts";
 import Image from "next/image";
 
-// ====================================================== Continue with Chapter 7 Fetching Data.
+// ====================================================== Continue with Chapter 10 Partial Prerendering.
 
 export default function Page() {
   return (
