@@ -5,7 +5,7 @@ import styles from "app/ui/home.module.css";
 import { lusitana } from "./ui/fonts";
 import Image from "next/image";
 
-// ====================================================== Continue with Chapter 10 Partial Prerendering.
+// ====================================================== Continue with Chapter 11 Adding Search and Pagination.
 
 export default function Page() {
   return (
