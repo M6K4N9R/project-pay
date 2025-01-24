@@ -4,8 +4,6 @@ export const authConfig = {
   pages: {
     signIn: '/login',
   },
-} satisfies NextAuthConfig;
-
 callbacks: {
     authorized({ auth, request: { nextUrl } }) {
       const isLoggedIn = !!auth?.user;
